@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1610486343 source:/home/mirna99/Documents/trialHuff/main.cpp
+	<iostream>
+	<queue>
+	<fstream>
+	<map>
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<set>
+	<bits/stdc++.h>
+	<cmath>
+	<sstream>
+	<bitset>
+
